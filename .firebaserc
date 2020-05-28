@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "awesome-62002": {
+      "hosting": {
+        "my-app": [
+          "awesome-62002"
+        ]
+      }
+    }
+  }
+}
